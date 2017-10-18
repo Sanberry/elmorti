@@ -1,4 +1,4 @@
 <?php
-echo "<h1>Hello Samuelito</h1>";
+echo "<h1><strong>Hello Samuelito</strong></h1>";
 echo "<h2>Check it out</h2>";
-echo "<p><a href='lemonparty.org'>Link to demo1</p>";
+echo "<p><a href='https://sanemadoressamuel.wordpress.com/'>Link to elmorti</p>";
